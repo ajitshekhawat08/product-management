@@ -204,6 +204,11 @@ php artisan serve
 # Login Credentials
 
 ```text
+Admin Login
 Email: admin@example.com
+Password: password
+
+User Login
+Email: test@example.com
 Password: password
 ```
